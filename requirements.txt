@@ -1,0 +1,5 @@
+streamlit
+requests
+pandas
+st-annotated-text
+python-dotenv
